@@ -14,6 +14,12 @@ public class MyArrayList {
 		
 		list.add("Third");
 		
+		list.add("Third");
+		
+		list.add("Third");
+		
+//		How we can add duplicate items in ArrayList but not possible in HashSet
+		
 //		list.add(new Float(21.12f)); deprecated way
 		list.add(21.12f);
 		

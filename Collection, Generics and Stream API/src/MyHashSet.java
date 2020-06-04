@@ -7,10 +7,18 @@ public class MyHashSet {
 		Set set = new HashSet();
 		
 		set.add("Zeroth");
+		
 		set.add("First");
+		
 		set.add("Second");
+		
 		set.add(3);
+		
 		set.add(4);
+		
+		set.add(4);
+		
+		System.out.println(set);
 
 	}
 
